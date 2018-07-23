@@ -1,8 +1,7 @@
 /*
-	Name: ex08.cpp
-	Author: Celso Fernando Paes
+	Author: Neemias Ramos Ferreira
 	Date: 12/08/15 14:44
-	Description: Entra com dois números distintos. Exibir em ordem crescente.
+	Description: Entra com dois nÃºmeros distintos. Exibir em ordem crescente.
 */
 
 #include<stdio.h>
