@@ -1,5 +1,4 @@
 /*
-	Name: SomaSeDez.cpp
 	Author: Neemias Ramos Ferreira
 	Date: 12/08/15 18:36
 	Description: Calcule a soma de dois números, se o resultado for maior que 10, exiba ele.
