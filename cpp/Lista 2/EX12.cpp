@@ -1,8 +1,7 @@
 /*
-	Name: EX12.cpp
-	Author: Celso Fernando Paes
-	Date: 13/08/15 21:55
-	Description: Faça um algoritmo que calcule e imprima o valor do número pi, utilizando a seguinte série:
+	Author: Neemias Ramos Ferreira
+	Date: 15/08/15 21:55
+	Description: FaÃ§a um algoritmo que calcule e imprima o valor do nÃºmero pi, utilizando a seguinte sÃ©rie:
 	pi=(4/1-(4/3)+(4/5)-(4/7)+(4/9)...
 */
 
@@ -23,5 +22,5 @@ main()
 			pi=pi+p*(4/j);
 			j=j+2;
 		}
-	printf("O VALOR DE PI É: %.5f", pi);
+	printf("O VALOR DE PI Ã‰: %.5f", pi);
 }
