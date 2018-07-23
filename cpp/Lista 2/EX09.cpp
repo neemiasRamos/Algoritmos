@@ -1,10 +1,9 @@
 /*
-	Name: EX09.cpp
-	Author: Celso Fernando Paes
-	Date: 13/08/15 15:37
-	Description: Escreva um algoritmo que calcule o volume de uma esfera em função do 
-	raio R. O raio deverá variar de 0 a 20 cm de 0.5 em 0.5 cm.
-	v=(4/3)*pi*R³
+	Author: Neemias Ramos Ferreira
+	Date: 15/08/15 15:37
+	Description: Escreva um algoritmo que calcule o volume de uma esfera em funÃ§Ã£o do 
+	raio R. O raio deverÃ¡ variar de 0 a 20 cm de 0.5 em 0.5 cm.
+	v=(4/3)*pi*RÂ³
 */
 
 #include<stdio.h>
@@ -18,7 +17,7 @@ main()
 	for(i=0;i<=40;i++)
 		{
 			vol=(4/3)*pi*r*r*r;
-			printf("\nPARA RAIO = %.2f cm -> VOLUME = %.2f cm³", r, vol);
+			printf("\nPARA RAIO = %.2f cm -> VOLUME = %.2f cmÂ³", r, vol);
 			r=r+0.5;
 		}
 	getch();
