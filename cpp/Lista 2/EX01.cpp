@@ -1,6 +1,6 @@
 /*
 	Author: Neemias Ramos Ferreira
-	Date: 17/08/15 10:36
+	Date: 15/08/15 10:36
 	Description: Escreva um algoritmo que leia 10 idades e mostre a média entre elas. 
 */
 
