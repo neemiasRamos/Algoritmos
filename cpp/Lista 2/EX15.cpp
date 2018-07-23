@@ -1,10 +1,9 @@
 /*
-	Name: EX15.cpp
-	Author: Celso Fernando Paes
-	Date: 14/08/15 13:46
+	Author: Neemias Ramos Ferreira
+	Date: 15/08/15 16:46
 	Description:Construa um algoritmo que calcule o FATORIAL de N, sendo que o valor 
-	inteiro de N È fornecido pelo usu·rio. Sabe-se que: N! = 1 * 2 * 3 * 4 ... (N-1) * N 
- 0! = 1, por definiÁ„o
+	inteiro de N √© fornecido pelo usu√°rio. Sabe-se que: N! = 1 * 2 * 3 * 4 ... (N-1) * N 
+ 0! = 1, por defini√ß√£o
  1! = 1
 */
 
