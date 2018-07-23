@@ -1,8 +1,7 @@
 /*
-	Name: EX12.cpp
-	Author: Celso Fernando Paes
-	Date: 12/08/15 15:23
-	Description: Entre com três números e coloque-os em ordem crescente.
+	Author: Neemias Ramos Ferreira
+	Date: 11/08/15 11:23
+	Description: Entre com trÃªs nÃºmeros e coloque-os em ordem crescente.
 */
 
 #include<stdio.h>
