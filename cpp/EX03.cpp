@@ -1,5 +1,4 @@
 /*
-	Name: Ex03.cpp
 	Author: Neemias Ramos Ferreira
 	Date: 12/08/15 19:12
 	Description: Construir um algoritmo que indique se o número digitado está entre 20 e 90 ou não.
