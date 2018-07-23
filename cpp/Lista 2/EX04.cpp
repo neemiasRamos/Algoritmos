@@ -1,9 +1,8 @@
 /*
-	Name: EX04.cpp
-	Author: Celso Fernando Paes
-	Date: 13/08/15 14:27
-	Description: Faça um algoritmo que calcule e imprima o seguinte
-	somatório para os 100 primeiros termos da série:
+	Author: Neemias Ramos Ferreira
+	Date: 15/08/15 14:27
+	Description: FaÃ§a um algoritmo que calcule e imprima o seguinte
+	somatÃ³rio para os 100 primeiros termos da sÃ©rie:
 	S=(5/1)+(8/2)+(11/3)...
 */
 
