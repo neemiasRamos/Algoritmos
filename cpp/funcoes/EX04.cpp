@@ -1,6 +1,5 @@
 /*
-  Name: 
-  Copyright: 
+
   Author: Neemias Ramos Ferreira
   Date: 31/08/15 21:25
   Description: Escreva um programa onde o usuário informa a data de nascimento (dia, mês e ano) 
