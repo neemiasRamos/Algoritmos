@@ -1,6 +1,5 @@
 /*
-	Name: EX06
-	Author: Celso Fernando Paes
+	Author: Neemias Ramos Ferreira
 	Date: 12/08/15 09:38
 	Description: Entrar com a sigla do estado de uma pessoa e imprimir uma das mensagens:
 	"Carioca, Paulista, Mineiro ou Outros"
