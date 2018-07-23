@@ -1,8 +1,7 @@
 /*
-	Name: EX09.cpp
-	Author: Celso Fernando Paes
-	Date: 12/08/15 14:47
-	Description: Entrar com três números, armazenar e uma variável o maior e exibi-la.
+	Author: Neemias Ramos Ferreira
+	Date: 12/08/15 13:47
+	Description: Entrar com trÄ™s nÃºmeros, armazenar e uma variÃ¡vel o maior e exibi-la.
 */
 
 #include<stdio.h>
