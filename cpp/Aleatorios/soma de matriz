@@ -1,0 +1,75 @@
+/*
+  Name: matriz.cpp
+  Author: Neemias Ramos Ferreira
+  Date: 25/10/15 19:32
+  Description: programa para postar uma matriz na tela em formato de matriz
+               
+*/
+#include<conio2.h>
+#include<conio.h>
+#include<stdio.h>
+
+main()
+{
+   int mata[3][3],matb[3][3],matr[3][3],i,j; 
+   int l,c;//l= linha   c= coluna
+   
+   l=5;
+   c=5;
+   
+   
+   for(i=0;i<3;i++)
+    {
+      for(j=0;j<3;j++)
+      {
+                      gotoxy(c,l); 
+                      scanf("%d",&mata[i][j]);
+                      c=c+5;
+      }
+      c=5;
+      l=l+2;
+      }
+      //colocando sinal de mais
+      gotoxy(22,7);
+      puts("+");
+      //carga da matriz b
+      c=29;
+      l=5;
+      for(i=0;i<3;i++)
+    {
+      for(j=0;j<3;j++)
+      {
+                      gotoxy(c,l); 
+                      scanf("%d",&matb[i][j]);
+                      c=c+5;
+      }
+      c=29;
+      l=l+2;
+      }
+      //colocando sinal de igual
+      gotoxy(47,7);
+      puts("=");
+      
+      //somando as duas matrizes
+      c=53;
+      l=5;
+      for(i=0;i<3;i++)
+    {
+      for(j=0;j<3;j++)
+      {
+                      gotoxy(c,l); 
+                      matr[i][j]=mata[i][j]+matb[i][j];
+                      printf("%d",matr[i][j]);
+                      c=c+5;
+      }
+      c=53;
+      l=l+2;
+      }
+  getch();    
+}
+
+
+
+
+
+
