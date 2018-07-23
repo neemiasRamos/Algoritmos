@@ -1,5 +1,4 @@
 /*
-	Name: Divisivel.cpp
 	Author: Neemias Ramos Ferreira
 	Date: 12/08/15 19:08
 	Description: Entrar com um número e informar se ele é divisível por 5.
