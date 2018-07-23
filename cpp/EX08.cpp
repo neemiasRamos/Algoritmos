@@ -1,6 +1,6 @@
 /*
 	Author: Neemias Ramos Ferreira
-	Date: 12/08/15 14:44
+	Date: 12/08/15 13:44
 	Description: Entra com dois números distintos. Exibir em ordem crescente.
 */
 
