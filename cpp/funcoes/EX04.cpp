@@ -1,11 +1,11 @@
 /*
   Name: 
   Copyright: 
-  Author: 
+  Author: Neemias Ramos Ferreira
   Date: 31/08/15 21:25
-  Description: 4-	Escreva um programa onde o usuário informa a data de nascimento (dia, mês e ano) 
-  e também a data atual (dia, mês e ano). A partir dessas informações o
-   calcular a idade exata do usuário (quantos anos ele tem na data informada como atual).
+  Description: Escreva um programa onde o usuÃ¡rio informa a data de nascimento (dia, mÃªs e ano) 
+  e tambÃ©m a data atual (dia, mÃªs e ano). A partir dessas informaÃ§Ãµes o
+   calcular a idade exata do usuÃ¡rio (quantos anos ele tem na data informada como atual).
 */
 #include <stdio.h>
 #include <conio.h>
@@ -17,7 +17,7 @@ int lernum()
     return x;
     
 }
-//*****************************************
+
 int idade(int a, int b, int c,int d, int e, int f)
 {
    if(e-b>0)
@@ -36,7 +36,7 @@ int idade(int a, int b, int c,int d, int e, int f)
 
     
 }
-//**************************************8
+
 
 int main()
 {
