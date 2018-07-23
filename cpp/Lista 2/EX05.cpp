@@ -1,9 +1,8 @@
 /*
-	Name: EX05.cpp
-	Author: Celso Fernando Paes
-	Date: 13/08/15 14:47
-	Description: Construa um algoritmo que calcule e imprima o somatório dos 30 primeiros 
-	termos da série:
+	Author: Neemias Ramos Ferreira
+	Date: 15/08/15 14:47
+	Description: Construa um algoritmo que calcule e imprima o somatÃ³rio dos 30 primeiros 
+	termos da sÃ©rie:
 	S=(480/10)+(475/11)+(470/12)...	
 */
 
