@@ -1,8 +1,8 @@
 /*
 	Name: Ex03.cpp
-	Author: 
-	Date: 12/08/15 09:12
-	Description: Construir um algoritmo que indique se o n˙mero digitado est· entre 20 e 90 ou n„o.
+	Author: Neemias Ramos Ferreira
+	Date: 12/08/15 19:12
+	Description: Construir um algoritmo que indique se o n√∫mero digitado est√° entre 20 e 90 ou n√£o.
 */
 
 #include<stdio.h>
