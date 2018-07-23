@@ -1,9 +1,8 @@
 /*
-	Name: 
-	Author: 
-	Date: 14/08/15 08:50
-	Description: Faça um algoritmo que leia o valor de X e a seguir calcule 
-	e mostre o valor do somatório:
+	Author: Neemias Ramos Ferreira
+	Date: 15/08/15 18:50
+	Description: FaÃ§a um algoritmo que leia o valor de X e a seguir calcule 
+	e mostre o valor do somatÃ³rio:
 	S=((X^25)/1)+((X^24)/2)+((X^23)/3)...+((X^1)/25).
 */
 
@@ -24,6 +23,6 @@ main()
 			sum=sum+((float)exp/i);
 			j--;
 		}
-	printf("O SOMATÓRIO É: %.4f", sum);
+	printf("O SOMATÃ“RIO Ã‰: %.4f", sum);
 	getch();
 }
