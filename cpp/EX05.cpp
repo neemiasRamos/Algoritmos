@@ -1,9 +1,8 @@
 /*
-	Name: EX05
-	Author: Celso Fernando Paes
-	Date: 12/08/15 09:32
+	Author: Neemias Ramos Ferreira
+	Date: 12/08/15 19:32
 	Description: Entrar com o ano de nascimento de uma pessoa e imprimir a idade dela.
-	Verificar se o ano digitado È v·lido.
+	Verificar se o ano digitado √© v√°lido.
 */
 
 #include<stdio.h>
