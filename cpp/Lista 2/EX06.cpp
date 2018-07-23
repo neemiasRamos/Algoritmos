@@ -1,8 +1,7 @@
 /*
-	Name: EX06.cpp
-	Author: Celso Fernando Paes
-	Date: 13/08/15 14:53
-	Description: Faça um algoritmo que imprima o valor do somatório:
+	Author: Neemias Ramos Ferreira
+	Date: 15/08/15 14:53
+	Description: FaÃ§a um algoritmo que imprima o valor do somatÃ³rio:
 	S=(1/1)+(1/2)+(1/3)...(1/200).
 */
 
