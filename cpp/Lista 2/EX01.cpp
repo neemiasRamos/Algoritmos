@@ -1,8 +1,7 @@
 /*
-	Name: EX01.cpp
-	Author: Celso Fernando Paes
+	Author: Neemias Ramos Ferreira
 	Date: 13/08/15 10:36
-	Description: Escreva um algoritmo que leia 10 idades e mostre a média entre elas. 
+	Description: Escreva um algoritmo que leia 10 idades e mostre a mÃ©dia entre elas. 
 */
 
 #include<stdio.h>
