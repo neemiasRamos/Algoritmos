@@ -1,8 +1,7 @@
 /*
-	Name: EX13.cpp
-	Author: Celso Fernando Paes
-	Date: 13/08/15 09:48
-	Description: Entrar com um número de 1 a 12 e exibir o mês correspondente.
+	Author: Neemias Ramos Ferreira
+	Date: 10/08/15 19:48
+	Description: Entrar com um nÃºmero de 1 a 12 e exibir o mÃªs correspondente.
 */
 
 #include<stdio.h>
