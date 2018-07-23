@@ -1,8 +1,7 @@
 /*
-	Name: EX04
-	Author: Celso Fernando Paes
-	Date: 12/08/15 09:22
-	Description: Entrar com um número e exibir as mensagens: "Maior que 20", 
+	Author: Neemias Ramos Ferreira
+	Date: 12/08/15 19:22
+	Description: Entrar com um nÃºmero e exibir as mensagens: "Maior que 20", 
 	"Menor que 20" ou "Igual a 20".
 */
 
