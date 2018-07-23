@@ -1,10 +1,9 @@
 /*
-	Name: EX03.cpp
-	Author: Celso Fernando Paes
-	Date: 13/08/15 13:30
-	Description: A conversão de graus Fahrenheit para Celsius é obtida 
-	por C = 5/9 * (F - 32). Faça um algoritmo que calcule e mostre 
-	tal conversão cujos valores variem de 50º a 65º de 1º em 1º.
+	Author: Neemias Ramos Ferreira
+	Date: 15/08/15 13:30
+	Description: A conversÃ£o de graus Fahrenheit para Celsius Ã© obtida 
+	por C = 5/9 * (F - 32). FaÃ§a um algoritmo que calcule e mostre 
+	tal conversÃ£o cujos valores variem de 50Âº a 65Âº de 1Âº em 1Âº.
 */
 
 #include<stdio.h>
@@ -20,7 +19,7 @@ main()
 	for(i=0; i<=15;i++)
 		{
 			cel=((0.555556)*(fah-32));
-			printf("\n%d°F eh igual a %.2f°C", fah, cel);
+			printf("\n%dÂ°F eh igual a %.2fÂ°C", fah, cel);
 			fah++;
 		}
 	getch();
