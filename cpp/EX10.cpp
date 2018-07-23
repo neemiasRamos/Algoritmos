@@ -1,7 +1,6 @@
 /*
-	Name: EX10.cpp
-	Author: Celso Fernando Paes
-	Date: 12/08/15 15:03
+	Author: Neemias Ramos Ferreira
+	Date: 12/08/15 14:03
 	Description: Entrar com a idade de uma pessoa e exibir a mensagem; 
 	Maior de idade, menor de idade ou acima de 65 anos.
 */
