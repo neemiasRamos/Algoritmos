@@ -1,8 +1,7 @@
 /*
-	Name: EX14.cpp
-	Author: Celso Fernando Paes
-	Date: 13/08/15 09:56
-	Description: Leia um número inteiro e imprima se ele é par ou ímpar.
+	Author: Neemias Ramos Ferreira
+	Date: 10/08/15 19:56
+	Description: Leia um nÃºmero inteiro e imprima se ele Ã© par ou Ã­mpar.
 */
 
 #include<stdio.h>
