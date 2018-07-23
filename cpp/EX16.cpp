@@ -1,15 +1,14 @@
 /*
-	Name: EX16.cpp
-	Author: Celso Fernando Paes
-	Date: 13/08/15 10:08
-	Description: 16-	Permita a entrada de um valor de 1 a 4. 
+	Author: Neemias Ramos Ferreira
+	Date: 13/08/15 14:08
+	Description: Permita a entrada de um valor de 1 a 4. 
 	Em seguida, leia dois valor. Calcular e imprimir:
-	- Se valor digitado for 0, calcular e exibir a soma dos números
-	- Se valor digitado for 1, calcular e exibir a subtração dos números
-	- Se valor digitado for 2, calcular e exibir a multiplicação dos números
-	- Se valor digitado for 3, calcular e exibir a divisão dos números
-	- Se valor digitado for 4, calcular e exibir a média dos números
-	- Diferente de 1,2,3 ou 4, exibir a mensagem "Valor errado. Programa encerrado sem cálculos"
+	- Se valor digitado for 0, calcular e exibir a soma dos nÃºmeros
+	- Se valor digitado for 1, calcular e exibir a subtraÃ§Ã£o dos nÃºmeros
+	- Se valor digitado for 2, calcular e exibir a multiplicaÃ§Ã£o dos nÃºmeros
+	- Se valor digitado for 3, calcular e exibir a divisÃ£o dos nÃºmeros
+	- Se valor digitado for 4, calcular e exibir a mÃ©dia dos nÃºmeros
+	- Diferente de 1,2,3 ou 4, exibir a mensagem "Valor errado. Programa encerrado sem cÃ¡lculos"
 */
 
 #include<stdio.h>
@@ -47,6 +46,6 @@ main()
 								printf("\nA MEDIA E: %.2f", (float) (a+b)/2);
 		}
 	else
-		printf("\nValor errado. Programa encerrado sem cálculos");
+		printf("\nValor errado. Programa encerrado sem cÃ¡lculos");
 	getch();
 }
