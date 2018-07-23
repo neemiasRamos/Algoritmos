@@ -1,8 +1,7 @@
 /*
-	Name: EX07.cpp
-	Author: Celso Fernando Paes
-	Date: 13/08/15 15:06
-	Description: Faça um algoritmo que calcule e imprima o seguinte somatório S:
+	Author: Neemias Ramos Ferreira
+	Date: 15/08/15 15:06
+	Description: FaÃ§a um algoritmo que calcule e imprima o seguinte somatÃ³rio S:
 	S=((38*37)/1)+((37*36)/2)+((36*35)/3)+...+((2*1)/37).
 */
 
