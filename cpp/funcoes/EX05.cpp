@@ -1,12 +1,9 @@
 /*
-  Name: 
-  Copyright: 
-  Author: 
+  Author: Neemias Ramos Ferreira
   Date: 18/09/15 19:59
-  Description: 
-  5-	Escreva um programa para calcular o índice de massa corporal de um sujeito (IMC). 
+  Description: Escreva um programa para calcular o Ã­ndice de massa corporal de um sujeito (IMC). 
   Para calcular o IMC deve se dividir o peso (em Kg) pelo quadrado da altura (em metros). 
-  Ao final o algoritmo deve apresentar a seguinte interpretação do resultado: abaixo do peso (IMC menor que 18,5),
+  Ao final o algoritmo deve apresentar a seguinte interpretaÃ§Ã£o do resultado: abaixo do peso (IMC menor que 18,5),
    peso normal (IMC entre 18,5 e 24,99),acima do peso (IMC entre 25 e 30) e obeso (IMC acima de 30).
 */
 #include<conio.h>
@@ -14,7 +11,6 @@
 #include<stdlib.h>
 
 
-//*************************
 float imc()
 {
       int peso;
@@ -27,7 +23,6 @@ float imc()
       imc
       return peso,altura;
 }
-//***************************
 main()
 {
     imc();
