@@ -1,15 +1,14 @@
 /*
   Name: 
   Copyright: 
-  Author: 
+  Author: Neemias Ramos Ferreira
   Date: 02/09/15 21:34
-  Description: 12-	Escreva uma função para retornar o dia da semana atual por extenso.
+  Description: Escreva uma funÃ§Ã£o para retornar o dia da semana atual por extenso.
   
-  SÓ FUNCIONA PRO MES DE SETEMBRO
+  SÃ“ FUNCIONA PRO MES DE SETEMBRO
 */
 #include<conio.h>
 #include<stdio.h>
-//*************************
 int lernum()
 {
     int x;
@@ -18,7 +17,6 @@ int lernum()
     
 }
 
-//*************************
 int idade(int a, int b, int c)
 {
    int ano, d,e,f;
@@ -45,7 +43,6 @@ int idade(int a, int b, int c)
    if(result%7==6)
    puts("domingo-feira");
 }
-//*************************
 
 main()
 {
