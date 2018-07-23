@@ -1,13 +1,12 @@
 /*
-	Name: EX15.cpp
-	Author: Celso Fernando Paes
-	Date: 13/08/15 10:01
-	Description: FaÁa um algoritmo para calcular o reajuste salarial de um funcion·rio, 
-		de acordo com os critÈrios abaixo:
-		- se sal·rio inferior a R$ 10.000,00 deve ter um reajuste de 55%
-		- se sal·rio entre R$ 10.000,00 (inclusive) e R$ 25.000,00
+	Author: Neemias Ramos Ferreira
+	Date: 10/08/15 20:01
+	Description: Fa√ßa um algoritmo para calcular o reajuste salarial de um funcion√°rio, 
+		de acordo com os crit√©rios abaixo:
+		- se sal√°rio inferior a R$ 10.000,00 deve ter um reajuste de 55%
+		- se sal√°rio entre R$ 10.000,00 (inclusive) e R$ 25.000,00
  		(inclusive) deve ter um reajuste de 20%
-		- se sal·rio superior a R$ 25.000,00 deve ter um reajuste de 20%.
+		- se sal√°rio superior a R$ 25.000,00 deve ter um reajuste de 20%.
 
 */
 
