@@ -1,8 +1,7 @@
 /*
-	Name: EX11.cpp
-	Author: Celso Fernando Paes
-	Date: 13/08/15 21:05
-	Description: Faça um algoritmo que calcule e mostre o valor de H:
+	Author: Neemias Ramos Ferreira
+	Date: 15/08/15 21:05
+	Description: FaÃ§a um algoritmo que calcule e mostre o valor de H:
 	H=(1/225)-(2/196)+(4/169)-(8/144)...(16384/1).
 */
 
@@ -25,6 +24,6 @@ main()
 			b=b-j;
 			j=j-2;
 		}
-	printf("O VALOR DE H É: %.2f", h);
+	printf("O VALOR DE H Ã‰: %.2f", h);
 	getch();
 }
