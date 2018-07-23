@@ -1,14 +1,13 @@
 /*
-	Name: EX14.cpp
-	Author: Celso Fernando Paes
-	Date: 14/08/15 11:07
-	Description: Uma rainha requisitou os serviÁos de um monge e disse-lhe que pagaria qualquer
-	preÁo. O monge, necessitando de alimentos, indagou ‡ rainha sobre o pagamento, se poderia 
-	ser feito com gr„os de trigo dispostos em um tabuleiro de xadrez, de tal forma que o 
-	primeiro quadro deveria conter apenas 1 gr„o e os quadros subsequentes, o dobro do 
-	quadro anterior. A rainha achou o trabalho barato e pediu que o serviÁo fosse executado, 
-	sem se dar conta de que seria impossÌvel efetuar o pagamento. FaÁa um algoritmo para 
-	calcular o n˙mero de gr„os que o monge esperava receber. Lembre-se, um tabuleiro de 
+	Author: Neemias Ramos Ferreira
+	Date: 15/08/15 18:07
+	Description: Uma rainha requisitou os servi√ßos de um monge e disse-lhe que pagaria qualquer
+	pre√ßo. O monge, necessitando de alimentos, indagou √† rainha sobre o pagamento, se poderia 
+	ser feito com gr√£os de trigo dispostos em um tabuleiro de xadrez, de tal forma que o 
+	primeiro quadro deveria conter apenas 1 gr√£o e os quadros subsequentes, o dobro do 
+	quadro anterior. A rainha achou o trabalho barato e pediu que o servi√ßo fosse executado, 
+	sem se dar conta de que seria imposs√≠vel efetuar o pagamento. Fa√ßa um algoritmo para 
+	calcular o n√∫mero de gr√£os que o monge esperava receber. Lembre-se, um tabuleiro de 
 	xadrez possui 64 quadros.
 
 */
