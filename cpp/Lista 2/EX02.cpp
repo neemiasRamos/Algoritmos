@@ -1,9 +1,8 @@
 /*
-	Name: EX02.cpp
-	Author: Celso Fernando Paes
-	Date: 13/08/15 11:00
+	Author: Neemias Ramos Ferreira
+	Date: 17/08/15 11:00
 	Description: Construa um algoritmo que calcule e mostre a soma dos 
-	primeiros 50 números PARES (inicie pelo 2): 2 + 4 + 6 + 8 + 10 + 12
+	primeiros 50 nÃºmeros PARES (inicie pelo 2): 2 + 4 + 6 + 8 + 10 + 12
 	 + 14 + ... + 96 + 98 + 100
 */
 
