@@ -1,14 +1,12 @@
 /*
-  Name: 
-  Copyright: 
-  Author: 
+  Author: Neemias Ramos Ferreira
   Date: 24/08/15 19:26
-  Description: 2-	Criar um programa que calcule o fatorial de um número,
-   usando uma função que receba um valor e retorne o fatorial desse valor.
+  Description: Criar um programa que calcule o fatorial de um nÃºmero,
+   usando uma funÃ§Ã£o que receba um valor e retorne o fatorial desse valor.
 */
 #include<conio.h>
 #include<stdio.h>
-//***************************
+
 float fatorial(int num)
 {
     int i, fat=1;
@@ -23,7 +21,7 @@ float fatorial(int num)
       }
       return fat;
     }
-//***************************
+
 main()
 {
     int a;
