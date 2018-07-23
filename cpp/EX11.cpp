@@ -1,9 +1,8 @@
 /*
-	Name: EX11.cpp
-	Author: Celso Fernando Paes
-	Date: 12/08/15 15:12
+	Author: Neemias Ramos Ferreira
+	Date: 11/08/15 16:12
 	Description: Um comerciante comprou um produto e quer vende-lo com um lucro de 45%
-	se o valor da compra for menor que R$ 20,00; Caso contr·rio, o lucro ser· de 30%. 
+	se o valor da compra for menor que R$ 20,00; Caso contr√°rio, o lucro ser√° de 30%. 
 	Entrar com o valor do produto e imprimir o valor da venda.
 */
 
